@@ -1,0 +1,914 @@
+[
+  {
+    "savol": "Islom dinining asoslari nechta?",
+    "javob": "Islom dinining 5 asosi bor: 1) Kalimai shahodat, 2) Namoz, 3) Roʻza, 4) Zakot, 5) Haj."
+  },
+  {
+    "savol": "Kalimai shahodat nima?",
+    "javob": "Kalimai shahodat: \"Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan abduhu va rasuluh\" - \"Allohdan oʻzga iloh yoʻqligiga va Muhammad alayhissalom uning bandasi va elchisi ekanligiga guvohlik beraman\"."
+  },
+  {
+    "savol": "Namoz qachon farz boʻlgan?",
+    "javob": "Namoz hijratdan bir yil oldin Miʼrojda farz boʻlgan."
+  },
+  {
+    "savol": "Roʻza qachon farz boʻlgan?",
+    "javob": "Roʻza hijriy 2-yili farz boʻlgan."
+  },
+  {
+    "savol": "Zakot qachon farz boʻlgan?",
+    "javob": "Zakot hijriy 2-yili farz boʻlgan."
+  },
+  {
+    "savol": "Haj qachon farz boʻlgan?",
+    "javob": "Haj hijriy 9-yili farz boʻlgan."
+  },
+  {
+    "savol": "Islomda birinchi farz nima?",
+    "javob": "Islomda birinchi farz - iymon keltirish."
+  },
+  {
+    "savol": "Iymon nima?",
+    "javob": "Iymon - Alloh taoloning borligiga, birligiga va Muhammad alayhissalomning paygʻambarligiga qalb bilan ishonish va til bilan iqror boʻlish."
+  },
+  {
+    "savol": "Islomda oxirgi farz nima?",
+    "javob": "Islomda oxirgi farz - haj qilish."
+  },
+  {
+    "savol": "Qurʼon qachon nozil boʻla boshlagan?",
+    "javob": "Qurʼon Ramazon oyining Qadr kechasida nozil boʻla boshlagan."
+  },
+  {
+    "savol": "Qurʼon necha yilda toʻliq nozil boʻlgan?",
+    "javob": "Qurʼon 23 yilda toʻliq nozil boʻlgan."
+  },
+  {
+    "savol": "Qurʼonda necha sura bor?",
+    "javob": "Qurʼonda 114 sura bor."
+  },
+  {
+    "savol": "Qurʼonda necha oyat bor?",
+    "javob": "Qurʼonda 6236 oyat bor."
+  },
+  {
+    "savol": "Qurʼonda eng uzun sura qaysi?",
+    "javob": "Qurʼonda eng uzun sura - Baqara surasi (286 oyat)."
+  },
+  {
+    "savol": "Qurʼonda eng qisqa sura qaysi?",
+    "javob": "Qurʼonda eng qisqa sura - Kavsar surasi (3 oyat)."
+  },
+  {
+    "savol": "Paygʻambarimiz qachon tavallud topgan?",
+    "javob": "Paygʻambarimiz milodiy 571-yil 20-aprelda tavallud topgan."
+  },
+  {
+    "savol": "Paygʻambarimiz qachon paygʻambar boʻlgan?",
+    "javob": "Paygʻambarimiz 40 yoshida paygʻambar boʻlgan."
+  },
+  {
+    "savol": "Paygʻambarimiz qachon vafot etgan?",
+    "javob": "Paygʻambarimiz hijriy 11-yil 12-rabiulavvalda vafot etgan."
+  },
+  {
+    "savol": "Paygʻambarimiz qayerda dafn etilgan?",
+    "javob": "Paygʻambarimiz Madinadagi Masjid an-Nabaviy huzuridagi Hujrada dafn etilgan."
+  },
+  {
+    "savol": "Islomda birinchi masjid qaysi?",
+    "javob": "Islomda birinchi masjid - Quba masjidi."
+  },
+  {
+    "savol": "Dunyodagi eng qadimgi masjid qaysi?",
+    "javob": "Dunyodagi eng qadimgi masjid - Makkadagi Masjid al-Harom."
+  },
+  {
+    "savol": "Qiblamiz qaysi masjid?",
+    "javob": "Qiblamiz - Makkadagi Kaʼba."
+  },
+  {
+    "savol": "Kaʼbani kim qurgan?",
+    "javob": "Kaʼbani birinchi marta farishtalar, keyinroq Hazrati Ibrohim va Hazrati Ismoil qurgan."
+  },
+  {
+    "savol": "Kaʼba qanday shaklda?",
+    "javob": "Kaʼba toʻrt burchakli kub shaklida."
+  },
+  {
+    "savol": "Kaʼbaning balandligi qancha?",
+    "javob": "Kaʼbaning balandligi 13 metr."
+  },
+  {
+    "savol": "Kaʼba devorlari qanday rangda?",
+    "javob": "Kaʼba devorlari qora rangdagi kisva bilan qoplangan."
+  },
+  {
+    "savol": "Haj qachon farz boʻlgan?",
+    "javob": "Haj hijriy 9-yili farz boʻlgan."
+  },
+  {
+    "savol": "Haj qaysi oyda ado etiladi?",
+    "javob": "Haj Zulhijja oyida ado etiladi."
+  },
+  {
+    "savol": "Hajning farzlari nechta?",
+    "javob": "Hajning 3 farzi bor: 1) Ihrom, 2) Arafotda tuish, 3) Kaʼbani tavof qilish."
+  },
+  {
+    "savol": "Umra nima?",
+    "javob": "Umra - Kaʼbani tavof qilish va Safo-Marva orasida saʼy qilishdan iborat boʻlgan ibodat."
+  },
+  {
+    "savol": "Umra qachon qilinadi?",
+    "javob": "Umra yilning istalgan vaqtida qilinadi, faqat Haj kunlarida qilinmaydi."
+  },
+  {
+    "savol": "Haj va Umraning farqi nima?",
+    "javob": "Haj - Zulhijja oyida farz boʻlgan ibodat, Umra esa sunnat ibodat hisoblanadi."
+  },
+  {
+    "savol": "Roʻza qachon farz boʻlgan?",
+    "javob": "Roʻza hijriy 2-yili Shaʼbon oyida farz boʻlgan."
+  },
+  {
+    "savol": "Ramazon oyi necha kun?",
+    "javob": "Ramazon oyi 29 yoki 30 kundan iborat."
+  },
+  {
+    "savol": "Roʻzaning farzlari nechta?",
+    "javob": "Roʻzaning 3 farzi bor: 1) Niyat qilish, 2) Saharlik qilish, 3) Iftorlik qilish."
+  },
+  {
+    "savol": "Roʻzani kimlar tutmaydi?",
+    "javob": "Roʻzani sayohatchilar, kasallar, homilador va bolali ayollar, hayz va nifosdagi ayollar tutmaydi."
+  },
+  {
+    "savol": "Qazo roʻza nima?",
+    "javob": "Qazo roʻza - oʻtkazib yuborilgan roʻzalarni keyinroq tutish."
+  },
+  {
+    "savol": "Fidya nima?",
+    "javob": "Fidya - roʻza tuta olmaydigan kishilarning har bir kun uchun bir miskinni toʻydirishi yoki unga teng pul berishi."
+  },
+  {
+    "savol": "Qadr kechasi qachon?",
+    "javob": "Qadr kechasi Ramazon oyining toq kunlarida, ayniqsa oxirgi 10 kun ichida boʻladi."
+  },
+  {
+    "savol": "Taroveh namozi necha rakat?",
+    "javob": "Taroveh namozi 20 rakat."
+  },
+  {
+    "savol": "Zakot kimlarga farz?",
+    "javob": "Zakot - nisob miqdorida moli boʻlgan har bir musulmon erga farz."
+  },
+  {
+    "savol": "Zakot nisobi qancha?",
+    "javob": "Zakot nisobi: 85 gramm oltin yoki unga teng qiymatdagi mol-mulk."
+  },
+  {
+    "savol": "Zakot qaysi mol-mulklardan beriladi?",
+    "javob": "Zakot: pul, mol, don, savdo mollari, kon boyliklari va qoʻy-echkilardan beriladi."
+  },
+  {
+    "savol": "Zakot kimlarga beriladi?",
+    "javob": "Zakot: fuqarolar, miskinlar, qarzdorlar, yoʻlda qolganlar, Alloh yoʻlidagi jihod qiluvchilar va boshqa muhtojlarga beriladi."
+  },
+  {
+    "savol": "Sadaka nima?",
+    "javob": "Sadaka - ixtiyoriy xayr-ehson, zakotdan farqli oʻlaroq farz emas."
+  },
+  {
+    "savol": "Fitr sadakasi nima?",
+    "javob": "Fitr sadakasi - Ramazon bayramidan oldin har bir musulmon tomonidan beriladigan majburiy xayr-ehson."
+  },
+  {
+    "savol": "Fitr sadakasi miqdori qancha?",
+    "javob": "Fitr sadakasi miqdori - bir kishining bir kunlik ovqatiga teng (3 kg gʻalla yoki unga teng pul)."
+  },
+  {
+    "savol": "Juma namozi necha rakat?",
+    "javob": "Juma namozi 2 rakat farz va 4 rakat sunnatdan iborat."
+  },
+  {
+    "savol": "Juma namozi qachon oʻqiladi?",
+    "javob": "Juma namozi juma kuni peshin vaqti oʻqiladi."
+  },
+  {
+    "savol": "Juma xutbasi necha qismdan iborat?",
+    "javob": "Juma xutbasi 2 qismdan iborat: birinchi qismda Allohga hamd, ikkinchi qismda paygʻambarga salovot aytiladi."
+  },
+  {
+    "savol": "Janob namozi qanday oʻqiladi?",
+    "javob": "Janob namozi 4 takbir bilan boshlanib, duo va salom bilan tugatiladi."
+  },
+  {
+    "savol": "Tahoratning farzlari nechta?",
+    "javob": "Tahoratning 4 farzi bor: 1) Yuzni yuvish, 2) Qoʻllarni tirsakgacha yuvish, 3) Boshga masʼh tortish, 4) Oyoqlarni toʻpigʻigacha yuvish."
+  },
+  {
+    "savol": "Gʻuslning farzlari nechta?",
+    "javob": "Gʻuslning 3 farzi bor: 1) Ogʻizni chayqash, 2) Burunni chayqash, 3) Butun badanni yuvish."
+  },
+  {
+    "savol": "Tayammum nima?",
+    "javob": "Tayammum - suv yoʻqligida yoki suvdan foydalana olmaslik hollarda tuproq bilan tahorat olish."
+  },
+  {
+    "savol": "Tayammum qanday qilinadi?",
+    "javob": "Tayammum: niyat qilib, tuproqqa ikki marta qoʻl urib, birinchi marta yuzga, ikkinchi marta qoʻllarga surtiladi."
+  },
+  {
+    "savol": "Hayz va nifos nima?",
+    "javob": "Hayz - ayollarning oylik holi, nifos - tugʻruqdan keyingi qon."
+  },
+  {
+    "savol": "Hayz davomiyligi qancha?",
+    "javob": "Hayz odatda 3-10 kun davom etadi."
+  },
+  {
+    "savol": "Nifos davomiyligi qancha?",
+    "javob": "Nifos odatda 40 kun davom etadi."
+  },
+  {
+    "savol": "Istihaza nima?",
+    "javob": "Istihaza - hayz va nifosdan tashqari paytlarda keladigan foydasiz qon."
+  },
+  {
+    "savol": "Nikohning shartlari nimalar?",
+    "javob": "Nikohning shartlari: 1) Er va xotin roziligi, 2) Vasiy (valiy) mavjudligi, 3) Shahidlar, 4) Mehri muajjal."
+  },
+  {
+    "savol": "Mehr nima?",
+    "javob": "Mehr - nikohda er tomonidan xotinga beriladigan majburiy sovgʻa."
+  },
+  {
+    "savol": "Taloq necha xil?",
+    "javob": "Taloq 3 xil: 1) Rajʼiy taloq (qaytarish mumkin), 2) Bain taloq (qaytarish mumkin emas), 3) Mugʻallaza taloq (3 taloq)."
+  },
+  {
+    "savol": "Idda nima?",
+    "javob": "Idda - taloq yoki erning vafotidan keyin ayolning yangi nikohga chiqish uchun kutish muddati."
+  },
+  {
+    "savol": "Idda muddati qancha?",
+    "javob": "Taloqdagi idda - 3 hayz, er vafotidagi idda - 4 oy 10 kun."
+  },
+  {
+    "savol": "Jinoyatlar qanday javobgarlik bilan jazolanadi?",
+    "javob": "Jinoyatlar: 1) Qasos, 2) Tazir, 3) Diyat (qon puli) bilan jazolanadi."
+  },
+  {
+    "savol": "Qasos nima?",
+    "javob": "Qasos - qasddan odam oʻldirish yoki jarohat yetkazishda teng javob berish."
+  },
+  {
+    "savol": "Diyat nima?",
+    "javob": "Diyat - qasddan boʻlmagan oʻldirish yoki jarohat yetkazishda toʻlanadigan qon puli."
+  },
+  {
+    "savol": "Hadd jazosi nima?",
+    "javob": "Hadd jazosi - Qurʼon va hadislarda belgilangan ogʻir jinoyatlar uchun jazo (masalan, zinokorlikda 100 qamchi)."
+  },
+  {
+    "savol": "Islomda qanday mol-mulk turlari bor?",
+    "javob": "Islomda mol-mulk turlari: 1) Shaxsiy mulk, 2) Davlat mulki, 3) Umumjamoa mulki."
+  },
+  {
+    "savol": "Riba nima?",
+    "javob": "Riba - foiz, islomda qatʼiy man etilgan."
+  },
+  {
+    "savol": "Qurʼonda zikr qilingan paygʻambarlar nechta?",
+    "javob": "Qurʼonda 25 paygʻambar zikr qilingan."
+  },
+  {
+    "savol": "Ulul azm paygʻambarlar kimlar?",
+    "javob": "Ulul azm paygʻambarlar: 1) Nuh (a.s.), 2) Ibrohim (a.s.), 3) Muso (a.s.), 4) Iso (a.s.), 5) Muhammad (s.a.v.)."
+  },
+  {
+    "savol": "Qurʼonda zikr qilingan ayollar kimlar?",
+    "javob": "Qurʼonda zikr qilingan ayollar: Maryam, Fotima, Havor, Bilqis, Nuh va Lutning xotinlari."
+  },
+  {
+    "savol": "Qurʼonda zikr qilingan qabilalar qaysilar?",
+    "javob": "Qurʼonda zikr qilingan qabilalar: Od, Samud, Madyan, Luth qabilalari."
+  },
+  {
+    "savol": "Qurʼonda zikr qilingan kitoblar qaysilar?",
+    "javob": "Qurʼonda zikr qilingan kitoblar: Tavrot (Muso), Zabur (Dovud), Injil (Iso), Qurʼon (Muhammad)."
+  },
+  {
+    "savol": "Qurʼonda nechta sakkiz oyatli sura bor?",
+    "javob": "Qurʼonda 5 ta sakkiz oyatli sura bor."
+  },
+  {
+    "savol": "Qurʼonda nechta sura `Bismillah`siz boshlanadi?",
+    "javob": "Qurʼonda 1 sura (Tavba surasi) `Bismillah`siz boshlanadi."
+  },
+  {
+    "savol": "Qurʼonda nechta sajda oyati bor?",
+    "javob": "Qurʼonda 15 ta sajda oyati bor."
+  },
+  {
+    "savol": "Qurʼonda eng uzun oyat qaysi?",
+    "javob": "Qurʼonda eng uzun oyat - Baqara surasining 282-oyati."
+  },
+  {
+    "savol": "Qurʼonda Allohning nechta ismi zikr qilingan?",
+    "javob": "Qurʼonda Allohning 99 ismi zikr qilingan."
+  },
+  {
+    "savol": "Qurʼonda nechta farz va haromlar zikr qilingan?",
+    "javob": "Qurʼonda 500 dan ortiq farz va haromlar zikr qilingan."
+  },
+  {
+    "savol": "Qurʼon qaysi tilga tarjima qilinishi mumkin emas?",
+    "javob": "Qurʼon hech qanday tilga toʻliq tarjima qilinishi mumkin emas, faqat tafsir qilinishi mumkin."
+  },
+  {
+    "savol": "Qurʼonni yod bilgan kishi kim?",
+    "javob": "Qurʼonni yod bilgan kishi - hofiz."
+  },
+  {
+    "savol": "Qurʼonni bir oy ichida oʻqish nima deyiladi?",
+    "javob": "Qurʼonni bir oy ichida oʻqish - hatm qilish deyiladi."
+  },
+  {
+    "savol": "Qurʼonni toza ovoz bilan oʻqish nima deyiladi?",
+    "javob": "Qurʼonni toza ovoz bilan oʻqish - tartil deyiladi."
+  },
+  {
+    "savol": "Qurʼonni harfma-harf oʻqigan uchun necha savob bor?",
+    "javob": "Qurʼonni harfma-harf oʻqigan uchun 10 savob yoziladi."
+  },
+  {
+    "savol": "Qurʼonni oʻrganish necha darajaga boʻlinadi?",
+    "javob": "Qurʼonni oʻrganish 3 darajaga boʻlinadi: 1) Qiroat, 2) Tafsir, 3) Hukmlarini oʻrganish."
+  },
+  {
+    "savol": "Qurʼonni qanday qoʻllarda ushlash mumkin emas?",
+    "javob": "Qurʼonni tahoratsiz qoʻllarda ushlash mumkin emas."
+  },
+  {
+    "savol": "Qurʼonni qayerda saqlash mumkin emas?",
+    "javob": "Qurʼonni past joylarda, harom joylarda saqlash mumkin emas."
+  },
+  {
+    "savol": "Qurʼonni qanday yoʻq qilish mumkin emas?",
+    "javob": "Qurʼonni yoqib, yirtib yoki boshqa yoʻl bilan yoʻq qilish mumkin emas."
+  },
+  {
+    "savol": "Qurʼonni oʻqishning afzalliklari qanday?",
+    "javob": "Qurʼonni oʻqish - savob, shifo, hidoyat va rohatlik manbaidir."
+  },
+  {
+    "savol": "Qurʼonni oʻqishga boshlashda nima deyiladi?",
+    "javob": "Qurʼonni oʻqishga boshlashda `Aʼuzu billahi minash shaytonir rojiym` deyiladi."
+  },
+  {
+    "savol": "Qurʼonni oʻqishni tugatganda nima deyiladi?",
+    "javob": "Qurʼonni oʻqishni tugatganda `Sadaqallohul aziym` deyiladi."
+  },
+  {
+    "savol": "Qurʼonni oʻqishda qanday odoblar bor?",
+    "javob": "Qurʼonni oʻqishda odoblar: tahoratli boʻlish, qiblaga yuzlanish, toza kiyimda boʻlish."
+  },
+  {
+    "savol": "Qurʼonni oʻqishda qanday xatolar qilinishi mumkin?",
+    "javob": "Qurʼonni oʻqishda xatolar: harflarni notoʻgʻri talaffuz qilish, vaktsiz oʻqish."
+  },
+  {
+    "savol": "Qurʼonni oʻqishda qanday holatlar makruh?",
+    "javob": "Qurʼonni oʻqishda makruh holatlar: juda tez yoki juda sekin oʻqish, ovozni haddan tashqari koʻtarish."
+  },
+  {
+    "savol": "Qurʼonni oʻqishda qanday holatlar harom?",
+    "javob": "Qurʼonni oʻqishda harom holatlar: tahoratsiz oʻqish, kufr soʻzlari bilan aralashtirib o‘qish."
+  },
+  {
+    "savol": "Qur’onni yod olish uchun eng yaxshi usul qanday?",
+    "javob": "Qur’onni yod olish uchun eng yaxshi usul - kundalik oz-ozdan, doimiy takrorlash va tushunish bilan o‘rganish."
+  },
+  {
+    "savol": "Qur’onni yod olishga qancha vaqt ketadi?",
+    "javob": "Qur’onni yod olish har bir insonga qarab farq qiladi, odatda 2-5 yil davom etadi."
+  },
+  {
+    "savol": "Qur’onni yod olish uchun eng yaxshi vaqt qachon?",
+    "javob": "Qur’onni yod olish uchun eng yaxshi vaqt - ertalab, tahoratli holda, sokin muhitda."
+  },
+  {
+    "savol": "Qur’onni yod olishda nechta oyat bir kunda o‘rganiladi?",
+    "javob": "Boshlang‘ichda 3-5 oyat, keyin asta-sekin miqdorni oshirish tavsiya etiladi."
+  },
+  {
+    "savol": "Qur’onni yod olishda qanday duolar o‘qiladi?",
+    "javob": "Yod olishdan oldin: `Robbi zidnii ilma` (Ey Robbim, ilmimni ziyoda qil) duosi o‘qiladi."
+  },
+  {
+    "savol": "Qur’onni yod olishda esdan chiqarib yuborsa nima qilish kerak?",
+    "javob": "Agar esdan chiqarib yuborsa, sabr qilish, takrorlash va Allohdan yordam so‘rash kerak."
+  },
+  {
+    "savol": "Qur’onni yod olish uchun eng foydali amaliyotlar qanday?",
+    "javob": "Foydali amaliyotlar: har kuni takrorlash, namozlarda o‘qish, tafsir bilan birga o‘rganish."
+  },
+  {
+    "savol": "Qur’onni yod olishda mushafdan o‘qish yoki eshitish yaxshimi?",
+    "javob": "Ikkala usul ham foydali, lekin mushafdan o‘qish ko‘z bilan ko‘rib yod olishni osonlashtiradi."
+  },
+  {
+    "savol": "Qur’onni yod olishda qanday mushafdan foydalanish yaxshi?",
+    "javob": "O‘qish qulay bo‘lgan, aniq harfli, Hafs rivoyatidagi mushaftan foydalanish yaxshi."
+  },
+  {
+    "savol": "Qur’onni yod olishda sheyxning o‘qishini eshitish foydalimi?",
+    "javob": "Ha, tanish sheyxlarning (Mas‘ud as-Sudaysiy, Mishari Rashid) o‘qishini eshitish talaffuzni yaxshilaydi."
+  },
+  {
+    "savol": "Qur’onni yod olishda bir surani butunlay yod olgandan keyin nima qilish kerak?",
+    "javob": "Butun surani yaxshi yod olguncha takrorlash, keyin yangi suraga o‘tish kerak."
+  },
+  {
+    "savol": "Qur’onni yod olishda eng qiyin joylar qaysilar?",
+    "javob": "Odatda uzun oyatlar, bir-biriga o‘xshash so‘zlar va ayrim mufassal suralar qiyin bo‘ladi."
+  },
+  {
+    "savol": "Qur’onni yod olishda xato qilsa nima qilish kerak?",
+    "javob": "Xato qilsa, to‘g‘risini o‘rganib, takrorlash va ustoz yoki sheyxdan yordam so‘rash kerak."
+  },
+  {
+    "savol": "Qur’onni yod olishda eng foydali tavsiya nima?",
+    "javob": "Eng foydali tavsiya - doimiy amal qilish, sabrli bo‘lish va niyatni toza saqlash."
+  },
+  {
+    "savol": "Qur’onni yod olgan kishi uni qanday saqlashi kerak?",
+    "javob": "Har kuni kamida 1 juz o‘qib, muntazam ravishda takrorlab turish kerak."
+  },
+  {
+    "savol": "Qur’onni yod olgan kishi uchun maxsus savoblar bormi?",
+    "javob": "Ha, yod olgan har bir harf uchun savob bor va u Qiyomatda shafoat qiladi."
+  },
+  {
+    "savol": "Qur’onni yod olgan kishi o‘z bilimini qanday tarqatishi kerak?",
+    "javob": "Boshqalarga o‘rgatish, masjid yoki maktablarda dars berish, bolalarga o‘qitish orqali."
+  },
+  {
+    "savol": "Qur’onni yod olgan kishi uni unutib qo‘ysa nima qilishi kerak?",
+    "javob": "Agar unutib qo‘ysa, tez orada qayta o‘rganishga harakat qilishi va ko‘proq takrorlashi kerak."
+  },
+  {
+    "savol": "Qur’onni yod olish uchun eng yaxshi duolar qanday?",
+    "javob": "`Robbi yassir wa la tu’assir, Robbi tamim bil-khayr` (Ey Robbim, oson qil, qiyin qilma, ishimni yaxshilik bilan tamom qil) duosi."
+  },
+  {
+    "savol": "Qur’onni yod olishda inson qanday fazilatlarni egallaydi?",
+    "javob": "Yod oluvchi sabr-toqat, poklik, tafakkur va Alloh bilan yaqin munosabat kabi fazilatlarni egallaydi."
+  },
+  {
+    "savol": "Qur’onni yod olishda qanday mushkulliklar yuzaga kelishi mumkin?",
+    "javob": "Vaqt yetishmasligi, esdan chiqarish, ish yoki oilaviy masalalar tufayli to‘xtab qolish kabi mushkulliklar bo‘lishi mumkin."
+  },
+  {
+    "savol": "Qur’onni yod olish uchun qancha vaqt ajratish kerak?",
+    "javob": "Kunga kamida 1-2 soat vaqt ajratish, lekin oz-ozdan ham muntazam o‘rganish muhim."
+  },
+  {
+    "savol": "Qur’onni yod olishda eng muhim narsa nima?",
+    "javob": "Eng muhim narsa - halollik, samimiylik va Alloh rizosini ko‘zlab o‘rganishdir."
+  },
+  {
+    "savol": "Namoz qachon farz qilingan?",
+    "javob": "Namoz Miʼroj kechasida farz qilingan."
+  },
+  {
+    "savol": "Bir kunda necha vaqt namoz oʻqish farz?",
+    "javob": "Bir kunda besh vaqt namoz oʻqish farz."
+  },
+  {
+    "savol": "Bomdod namozida necha rakat farz?",
+    "javob": "Bomdod namozida 2 rakat farz."
+  },
+  {
+    "savol": "Peshin namozida necha rakat farz?",
+    "javob": "Peshin namozida 4 rakat farz."
+  },
+  {
+    "savol": "Asr namozida necha rakat farz?",
+    "javob": "Asr namozida 4 rakat farz."
+  },
+  {
+    "savol": "Shom namozida necha rakat farz?",
+    "javob": "Shom namozida 3 rakat farz."
+  },
+  {
+    "savol": "Xufton namozida necha rakat farz?",
+    "javob": "Xufton namozida 4 rakat farz."
+  },
+  {
+    "savol": "Namoz oʻqish uchun nima kerak?",
+    "javob": "Namoz oʻqish uchun tahorat, pokiza kiyim va qibla tomon yoʻnalish kerak."
+  },
+  {
+    "savol": "Qibla qaysi tomonda?",
+    "javob": "Qibla Makkai Mukarramadagi Kaʼba tomonda."
+  },
+  {
+    "savol": "Tahorat qanday olinadi?",
+    "javob": "Tahorat niyyat qilib, qoʻllar, ogʻiz, burun, yuz, qoʻllar, bosh va oyoqlar yuviladi."
+  },
+  {
+    "savol": "Namozning birinchi rukni nima?",
+    "javob": "Namozning birinchi rukni takbiri tahrimdir."
+  },
+  {
+    "savol": "Fotiha surasini oʻqish qaysi namozda farz?",
+    "javob": "Fotiha surasini oʻqish barcha namozlarda farz."
+  },
+  {
+    "savol": "Ruku qanday qilinadi?",
+    "javob": "Ruku qoʻllarni tizzalarga qoʻyib, belni egib qilinadi."
+  },
+  {
+    "savol": "Sajda qanday qilinadi?",
+    "javob": "Sajda peshona, burun, qoʻllar, tizza va oyoq barmoqlari bilan qilinadi."
+  },
+  {
+    "savol": "Bir rakatda necha marta sajda qilinadi?",
+    "javob": "Bir rakatda ikki marta sajda qilinadi."
+  },
+  {
+    "savol": "Tashahhud qachon oʻqiladi?",
+    "javob": "Tashahhud har ikki rakatdan keyin oʻqiladi."
+  },
+  {
+    "savol": "Namozni yakunlash uchun nima qilinadi?",
+    "javob": "Namozni yakunlash uchun salom beriladi."
+  },
+  {
+    "savol": "Juma namozi qaysi kuni oʻqiladi?",
+    "javob": "Juma namozi juma kuni oʻqiladi."
+  },
+  {
+    "savol": "Juma namozi necha rakat?",
+    "javob": "Juma namozi 2 rakat."
+  },
+  {
+    "savol": "Janoza namozi qanday oʻqiladi?",
+    "javob": "Janoza namozi 4 takbir bilan turib oʻqiladi."
+  },
+  {
+    "savol": "Taroveh namozi qachon oʻqiladi?",
+    "javob": "Taroveh namozi Ramazon oyida xufton namozidan keyin oʻqiladi."
+  },
+  {
+    "savol": "Tahajjud namozi qachon oʻqiladi?",
+    "javob": "Tahajjud namozi kechasi uxlabgizdan keyin oʻqiladi."
+  },
+  {
+    "savol": "Vitr namozi qachon oʻqiladi?",
+    "javob": "Vitr namozi xufton namozidan keyin oʻqiladi."
+  },
+  {
+    "savol": "Qaza namoz nima?",
+    "javob": "Qaza namoz vaqtida oʻqilmagan namozni keyinroq oʻqishdir."
+  },
+  {
+    "savol": "Jamoa namozi qayerda oʻqiladi?",
+    "javob": "Jamoa namozi masjidda oʻqiladi."
+  },
+  {
+    "savol": "Imam kimdir?",
+    "javob": "Imam jamoa namoziga boshchilik qiluvchi kishidir."
+  },
+  {
+    "savol": "Mamumlarga ergashish kerakmi?",
+    "javob": "Ha, mamumlarga imam bilan birga harakat qilish kerak."
+  },
+  {
+    "savol": "Namozda nima oʻqiladi?",
+    "javob": "Namozda Qurʼon suralari, zikr va duolar oʻqiladi."
+  },
+  {
+    "savol": "Namoz vaqtlari qanday belgilanadi?",
+    "javob": "Namoz vaqtlari quyoshning holatiga qarab belgilanadi."
+  },
+  {
+    "savol": "Bomdod namozi qachon boshlanadi?",
+    "javob": "Bomdod namozi subhi sodiqdan boshlanadi."
+  },
+  {
+    "savol": "Peshin namozi qachon boshlanadi?",
+    "javob": "Peshin namozi quyosh tepada turganda boshlanadi."
+  },
+  {
+    "savol": "Asr namozi qachon tugaydi?",
+    "javob": "Asr namozi quyosh botguncha tugaydi."
+  },
+  {
+    "savol": "Shom namozi qachon boshlanadi?",
+    "javob": "Shom namozi quyosh botganda boshlanadi."
+  },
+  {
+    "savol": "Xufton namozi qachon boshlanadi?",
+    "javob": "Xufton namozi shafaq (qizil nur) yoʻqolganda boshlanadi."
+  },
+  {
+    "savol": "Namoz oʻqish uchun yosh chegarasi bormi?",
+    "javob": "Namoz oʻqish balog'atga yetgan har bir musulmon uchun farz."
+  },
+  {
+    "savol": "Ayollar namozni qanday oʻqiydi?",
+    "javob": "Ayollar namozni erkaklar kabi oʻqiydi, faqat ovozini baland qilmaydi."
+  },
+  {
+    "savol": "Safarda namoz qanday oʻqiladi?",
+    "javob": "Safarda 4 rakatli namozlar 2 rakatga qisqartiriladi."
+  },
+  {
+    "savol": "Kasr namoz nima?",
+    "javob": "Kasr namoz safarda namozni qisqartirish."
+  },
+  {
+    "savol": "Namozda xato qilsak nima qilinadi?",
+    "javob": "Namozda xato qilsak sajdai sahv qilinadi."
+  },
+  {
+    "savol": "Sajdai sahv qanday qilinadi?",
+    "javob": "Sajdai sahv namoz oxirida salom berishdan oldin 2 sajda qilinadi."
+  },
+  {
+    "savol": "Namozni buzadigan amallar qanday?",
+    "javob": "Gapirish, yemek, ichimlik, tahoratni buzish namozni buzadi."
+  },
+  {
+    "savol": "Namozda qoʻl qayerga qoʻyiladi?",
+    "javob": "Namozda qoʻl koʻkrak ostiga qoʻyiladi."
+  },
+  {
+    "savol": "Qiyom nima?",
+    "javob": "Qiyom namozda turish holati."
+  },
+  {
+    "savol": "Jalsa nima?",
+    "javob": "Jalsa ikki sajda orasida oʻtirish."
+  },
+  {
+    "savol": "Qaʼda nima?",
+    "javob": "Qaʼda namozda tashahhud oʻqish uchun oʻtirish."
+  },
+  {
+    "savol": "Takbir nima?",
+    "javob": "Takbir 'Allohu akbar' deyishdir."
+  },
+  {
+    "savol": "Taʼdil nima?",
+    "javob": "Taʼdil rukudan keyin toʻgʻri turish."
+  },
+  {
+    "savol": "Tasbeh nima?",
+    "javob": "Tasbeh Allohni ulug'lash uchun aytilgan zikr."
+  },
+  {
+    "savol": "Sutra nima?",
+    "javob": "Sutra namoz oʻquvchining oldiga qoʻyilgan toʻsiq."
+  },
+  {
+    "savol": "Namozda qanday kiyim kiyish kerak?",
+    "javob": "Namozda toza va avrat yerlarini yopadigan kiyim kiyish kerak."
+  },
+  {
+    "savol": "Erkaklar uchun avrat yerlar qaysi?",
+    "javob": "Erkaklar uchun avrat yerlar kindik va tizzalar orasi."
+  },
+  {
+    "savol": "Ayollar uchun avrat yerlar qaysi?",
+    "javob": "Ayollar uchun yuz va qoʻllardan tashqari barchasi avrat."
+  },
+  {
+    "savol": "Namozni qibla tomonga oʻqish kerakmi?",
+    "javob": "Ha, namozni qibla tomonga oʻqish farz."
+  },
+  {
+    "savol": "Qibla topish mumkin boʻlmasa nima qilinadi?",
+    "javob": "Qibla topish mumkin boʻlmasa, oʻylagan tomonga oʻqiladi."
+  },
+  {
+    "savol": "Namozda qoʻl koʻtarish qachon?",
+    "javob": "Namozda takbiri tahrima, ruku va sajdaga borish va turish vaqtida qoʻl koʻtariladi."
+  },
+  {
+    "savol": "Ehtiyot namozi nima?",
+    "javob": "Ehtiyot namozi shak-shubha paytida oʻqiladigan namoz."
+  },
+  {
+    "savol": "Istisqo namozi nima?",
+    "javob": "Istisqo namozi yomgʻir soʻrash uchun oʻqiladigan namoz."
+  },
+  {
+    "savol": "Kusuf namozi nima?",
+    "javob": "Kusuf namozi quyosh tutilganda oʻqiladigan namoz."
+  },
+  {
+    "savol": "Khusuf namozi nima?",
+    "javob": "Khusuf namozi oy tutilganda oʻqiladigan namoz."
+  },
+  {
+    "savol": "Namozga boshlovchi nima deydi?",
+    "javob": "Namozga boshlovchi 'Allohu akbar' deydi."
+  },
+  {
+    "savol": "Namozni tugatishda nima deyiladi?",
+    "javob": "Namozni tugatishda 'Assalomu alaykum va rahmatulloh' deyiladi."
+  },
+  {
+    "savol": "Namozda niyat qilish kerakmi?",
+    "javob": "Ha, namozda niyat qilish farz."
+  },
+  {
+    "savol": "Niyat qoʻngildan keladimi?",
+    "javob": "Ha, niyat qoʻngildan keladi, lekin ogʻizdan ham aytsa boʻladi."
+  },
+  {
+    "savol": "Namozda gapirish mumkinmi?",
+    "javob": "Yoʻq, namozda gapirish namozni buzadi."
+  },
+  {
+    "savol": "Namozda yigʻlash mumkinmi?",
+    "javob": "Diniy sabab bilan yigʻlash mumkin va mustahab."
+  },
+  {
+    "savol": "Namozda koʻz yumish kerakmi?",
+    "javob": "Namozda koʻz yumish shart emas, ochiq-yopiq ikkalasi ham joiz."
+  },
+  {
+    "savol": "Namozda qayerga qarash kerak?",
+    "javob": "Namozda sajda qilinadigan yerga qarash mustahab."
+  },
+  {
+    "savol": "Namozda harakat qilish mumkinmi?",
+    "javob": "Namozda zarurat boʻlsa ozgina harakat qilish mumkin."
+  },
+  {
+    "savol": "Namoz oʻqish uchun takbir qachon aytiladi?",
+    "javob": "Namoz oʻqish uchun takbir boshida, rukuga borishda va turish vaqtida aytiladi."
+  },
+  {
+    "savol": "Zakat nima?",
+    "javob": "Zakat moldan berilgan farz ehson."
+  },
+  {
+    "savol": "Hajj nima?",
+    "javob": "Hajj Makkai Mukarramaga qilingan farz ziyorat."
+  },
+  {
+    "savol": "Kalima nima?",
+    "javob": "Kalima 'Laa ilaaha illallahu Muhammadur rasulullah' degan guvohlik."
+  },
+  {
+    "savol": "Namozdan keyin qanday duolar oʻqiladi?",
+    "javob": "Namozdan keyin tasbehotlar, istighfor va turli duolar oʻqiladi."
+  },
+  {
+    "savol": "Azan nima?",
+    "javob": "Azan namoz vaqti kelganini bildiruvchi chaqiriq."
+  },
+  {
+    "savol": "Iqomat nima?",
+    "javob": "Iqomat namoz boshlanishini bildiruvchi chaqiriq."
+  },
+  {
+    "savol": "Muazzin kim?",
+    "javob": "Muazzin azan aytuvchi kishi."
+  },
+  {
+    "savol": "Mihrab nima?",
+    "javob": "Mihrab masjidda qibla tomonini koʻrsatuvchi joy."
+  },
+  {
+    "savol": "Minbar nima?",
+    "javob": "Minbar imom va xatib xutba oʻqiydigan joy."
+  },
+  {
+    "savol": "Xutba nima?",
+    "javob": "Xutba juma va hayit namozlarida oʻqilgan vaʼz."
+  },
+  {
+    "savol": "Namozda qiraat nima?",
+    "javob": "Namozda qiraat Qurʼon suralari oʻqish."
+  },
+  {
+    "savol": "Namozda sirr qiraat nima?",
+    "javob": "Namozda sirr qiraat ichida oʻqish."
+  },
+  {
+    "savol": "Namozda jahr qiraat nima?",
+    "javob": "Namozda jahr qiraat ovozli oʻqish."
+  },
+  {
+    "savol": "Bomdod namozida qiraat qanday?",
+    "javob": "Bomdod namozida qiraat jahriy (ovozli) oʻqiladi."
+  },
+  {
+    "savol": "Peshin namozida qiraat qanday?",
+    "javob": "Peshin namozida qiraat sirriy (ichida) oʻqiladi."
+  },
+  {
+    "savol": "Asr namozida qiraat qanday?",
+    "javob": "Asr namozida qiraat sirriy (ichida) oʻqiladi."
+  },
+  {
+    "savol": "Shom namozida qiraat qanday?",
+    "javob": "Shom namozida dastlabki 2 rakatda jahriy oʻqiladi."
+  },
+  {
+    "savol": "Xufton namozida qiraat qanday?",
+    "javob": "Xufton namozida dastlabki 2 rakatda jahriy oʻqiladi."
+  },
+  {
+    "savol": "Namozda qanday suralar oʻqiladi?",
+    "javob": "Namozda Fotiha surasi farz, undan keyin boshqa suralar oʻqiladi."
+  },
+  {
+    "savol": "Namozda bir xil sura ikki marta oʻqisa boʻladimi?",
+    "javob": "Ha, namozda bir xil sura ikki marta oʻqish mumkin."
+  },
+  {
+    "savol": "Namozda sura tartibini buzsa nima boʻladi?",
+    "javob": "Namozda sura tartibini buzish makruh, lekin namoz buzilmaydi."
+  },
+  {
+    "savol": "Namozda qancha sura oʻqish kerak?",
+    "javob": "Namozda Fotihadan keyin kamida 3 kichik oyat yoki 1 uzun oyat oʻqish vojib."
+  },
+  {
+    "savol": "Namozda xato qilsak nima qilinadi?",
+    "javob": "Namozda xato qilsak sajdai sahv qilinadi yoki namoz qaytariladi."
+  },
+  {
+    "savol": "Namozda unutib qoʻshimcha amal qilsak nima boʻladi?",
+    "javob": "Namozda unutib qoʻshimcha amal qilsak sajdai sahv qilinadi."
+  },
+  {
+    "savol": "Namozda kam amal qilsak nima boʻladi?",
+    "javob": "Namozda farzni tashlab qoʻysak namoz qaytariladi."
+  },
+  {
+    "savol": "Namozda oyat unutib qolsak nima qilinadi?",
+    "javob": "Namozda oyat unutib qolsak, ruku qilinadi va sajdai sahv qilinadi."
+  },
+  {
+    "savol": "Namozda imom xato qilsa nima qilinadi?",
+    "javob": "Namozda imom xato qilsa, maʼmumlar 'Subhanalloh' deydilar."
+  },
+  {
+    "savol": "Namozda ayollar qanday ogohlantiradi?",
+    "javob": "Namozda ayollar qoʻl chalish bilan ogohlantiради."
+  },
+  {
+    "savol": "Namozda takbir necha marta aytiladi?",
+    "javob": "Namozda har bir harakat uchun takbir aytiladi."
+  },
+  {
+    "savol": "Namozda rukudan keyin nima aytiladi?",
+    "javob": "Namozda rukudan keyin 'Samiʼallohu liman hamida' aytiladi."
+  },
+  {
+    "savol": "Namozda qomat nima?",
+    "javob": "Namozda qomat rukudan keyin toʻgʻri turish."
+  },
+  {
+    "savol": "Namozda sajdada nima aytiladi?",
+    "javob": "Namozda sajdada 'Subhana rabbiyal aʼla' aytiladi."
+  },
+  {
+    "savol": "Namozda rukuda nima aytiladi?",
+    "javob": "Namozda rukuda 'Subhana rabbiyal azim' aytiladi."
+  },
+  {
+    "savol": "Namozda necha marta tasbeh aytiladi?",
+    "javob": "Namozda rukuda va sajdada kamida 3 marta tasbeh aytiladi."
+  },
+  {
+    "savol": "Namozda tashahhudda nima oʻqiladi?",
+    "javob": "Namozda tashahhudda guvohlik kalimasi va salovat oʻqiladi."
+  },
+  {
+    "savol": "Namozda oxirgi tashahhudda nima qoʻshiladi?",
+    "javob": "Namozda oxirgi tashahhudda salovat va duolar qoʻshiladi."
+  },
+  {
+    "savol": "Namozda necha xil salom bor?",
+    "javob": "Namozda ikkita salom bor: oʻngga va chapga."
+  },
+  {
+    "savol": "Namozda faqat bir tomonga salom bersa boʻladimi?",
+    "javob": "Ha, namozda faqat oʻngga salom berish ham yetarli."
+  },
+  {
+    "savol": "Namozda salom berganda kimga qaratiladi?",
+    "javob": "Namozda salom farishtalar va maʼmumlarga qaratiladi."
+  }
+]
